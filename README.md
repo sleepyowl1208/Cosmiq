@@ -19,9 +19,10 @@ An AI authority that decides when data deserves human attention.
 
 Repository Structure
 cosmiq/
-├── streaming/        # Confluent + Flink jobs
-├── producer/         # Synthetic ops data generator
-├── backend/          # API / WebSocket layer
-├── ui/               # Next.js 16 app
-├── docs/             # Architecture & diagrams
-└── README.md
+  - streaming/        # Confluent + Flink jobs
+  - producer/         # Synthetic ops data generator
+  - backend/          # API / WebSocket layer
+  - ui/               # Next.js 16 app
+  - docs/             # Architecture & diagrams
+  - README.md
+  
